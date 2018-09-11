@@ -2,6 +2,6 @@
 Just a dummy repository
 Hi All,
 
-This is a dummy repository from the master branch for test purpose.
+This is an update to the master repository from the desktop to review commit and update.
 
 Thanks
